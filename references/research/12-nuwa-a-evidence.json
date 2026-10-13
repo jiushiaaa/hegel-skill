@@ -1,0 +1,409 @@
+{
+  "id": "hegel-perspective",
+  "expression": {
+    "sample_method": "固定种子20261013；指定DOM范围中规范化后字符>=150的段落作候选，random.Random.sample无放回20段；不足20全取。网页段落而非研究者拆句。",
+    "sample_count": 20,
+    "population_count": 93,
+    "url": "https://hegel-system.de/de/recht4.htm",
+    "version": "法哲学伦理篇网页，限以节号开始的p段，排除Anm/Zusatz；HTML段落可能小于完整编号节",
+    "source_language": "de",
+    "metrics": {
+      "characters": 5506,
+      "words": 764,
+      "sentence_terminators": 18,
+      "question_marks": 0,
+      "first_person_singular_tokens": 0,
+      "contrast_tokens": 3,
+      "characters_per_terminator": 305.89,
+      "question_marks_per_terminator": 0.0,
+      "first_person_per_1000_words": 0.0,
+      "contrast_per_1000_words": 3.93,
+      "analogy_density": null,
+      "certainty_ratio": null
+    },
+    "samples": [
+      {
+        "locator": "p[7] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "558e966bc9eedb70647dadfac586888587b92cc19653e7d9b2425340e0cd8358",
+        "metrics": {
+          "characters": 150,
+          "words": 22,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[38] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "544913f9d35c8a890229724ec4a62a107749cd6417db130ce83e455a1f6359b2",
+        "metrics": {
+          "characters": 292,
+          "words": 40,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[66] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "36a694047bc31238125a0db953563390f63f067532d378788e771bc62955d19c",
+        "metrics": {
+          "characters": 320,
+          "words": 43,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[76] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "17826068b5300713390c7a06841f4686dbc97707028c4fe72f1aaabb9360326d",
+        "metrics": {
+          "characters": 165,
+          "words": 23,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[159] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "8ef11edb37e477d90aa388720542aa4164c646c56329b8d48ee853f6eef5a805",
+        "metrics": {
+          "characters": 165,
+          "words": 25,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[193] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "22ab30e33a0d300c9bd33e6fdfea0614266d7e46e649cb9b8e87b72570221b1c",
+        "metrics": {
+          "characters": 162,
+          "words": 27,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[209] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "2230fcc113348a8ba96f9ebe1822ac6e8a27eb9b80db14f8651f59c7f1c66fbe",
+        "metrics": {
+          "characters": 260,
+          "words": 37,
+          "sentence_terminators": 0,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[326] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "dde759994248b5a999aeebe1525764e5e9993ac59154c1b42e8eb80c63cd9902",
+        "metrics": {
+          "characters": 160,
+          "words": 23,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[404] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "aa669b53a7930d47341cc850e69dc7c087ede951bf68189e8cf25feca5482e15",
+        "metrics": {
+          "characters": 186,
+          "words": 25,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[475] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "4a0e551dbfbf7e0bf4d7a6bca83ce10724b217a71bffc8328560dae9b7fe9dee",
+        "metrics": {
+          "characters": 176,
+          "words": 21,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[502] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "8b76edfbe15281f19299e303208707fc3fa2e0aee0e0644bca3431195869ab3a",
+        "metrics": {
+          "characters": 282,
+          "words": 37,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[578] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "918139138d4300ea7d09e2c80e4ad5126c06fa950c10ae9f85705da68bbb574e",
+        "metrics": {
+          "characters": 228,
+          "words": 32,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[582] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "58cad0c6b572ecbcd2436999167345698068c6d22be1361898c1358419b98752",
+        "metrics": {
+          "characters": 385,
+          "words": 52,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[593] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "4d4f1f097b2910000ae1f0c745816a2e3236a5b441a3512f0a3d0bbefd9554f8",
+        "metrics": {
+          "characters": 284,
+          "words": 37,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[603] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "1b55a8654196e2cbbf92c87cfb193bc611e0a1c40b5fbb49c01dbfc763e1edb8",
+        "metrics": {
+          "characters": 390,
+          "words": 53,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[611] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "70ec5a99353a21c0d2d88f7bf7a53a4276c2458c4c7acf25369f2353f8c269ad",
+        "metrics": {
+          "characters": 362,
+          "words": 54,
+          "sentence_terminators": 0,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[617] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "accd1b392176c586aa3ec9e9de115776c378a03ae91a05e307c1a87600c612ee",
+        "metrics": {
+          "characters": 261,
+          "words": 38,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[668] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "61b7bf72abc12611ccaf00f28abb1a77868796eeb21c29b0575bd88d0a30e7d1",
+        "metrics": {
+          "characters": 485,
+          "words": 64,
+          "sentence_terminators": 0,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[671] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "b4fa1350bfe0a4292737384979a2425a62b297cd51f58c5597d6ff3a655c2bff",
+        "metrics": {
+          "characters": 372,
+          "words": 53,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[679] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "cd2787d35217e726cf61fcc82dc6b5de6385c1ccd4d7ecde68f30fb39eaeff10",
+        "metrics": {
+          "characters": 421,
+          "words": 58,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      }
+    ],
+    "lexicons": {
+      "first_person": [
+        "ich"
+      ],
+      "contrast": [
+        "aber",
+        "doch",
+        "jedoch",
+        "sondern"
+      ]
+    },
+    "limitations": [
+      "机器抽样与统计实际执行，不等于全篇语义精读；连续实读范围另列。",
+      "标点组是句界代理，缩写、引号及旧拼写会影响；不是人工句法切分。",
+      "代词和连接词仅精确词形计数；法语j开头缩合不计，因此非完备第一人称率。",
+      "类比密度与确定性比例未人工标注，保持null。",
+      "单篇/单体裁样本，不能代表作者全生涯；原语统计不强制映射中文句长。",
+      "网页版本未做纸本校勘，统计只能用于本次有哈希的电子文本。",
+      "20样本是编号节首HTML段，未覆盖整个完整节；平均句长只是标点代理。"
+    ],
+    "style_rules": [
+      "先显出一个单面主张，再在其自身关系中指出需要的中介。",
+      "同一句内用限定和关联精确改变起初含义。",
+      "保留作者正文与后编讲课附释不同表达层。"
+    ],
+    "anti_patterns": [
+      "不机械正反合。",
+      "不强行宣布所有冲突已和解。",
+      "不把附释口语归作编号正文句式。"
+    ],
+    "measurement_definition": {
+      "characters": "规范化字符串Python len，包括空格和标点",
+      "words": "Unicode字母词，保留内部法语撇号；数字不计",
+      "sentence_terminators": "正则[.!?]+组数，包括缩写句点，因此仅句界代理",
+      "question_ratio": "问号数/句末标点组数，非人工疑问句率",
+      "normalization": "BeautifulSoup get_text空格连接，连续空白压为一空格；SKS去script/apparatus-criticus/symbol/pagination",
+      "stored_text": "只存摘要/定位/哈希/计数，不存抽样原文"
+    }
+  },
+  "date": "2026-10-13",
+  "role": "独立研究与出题；非评分，不授A/B等级",
+  "coverage": [
+    {
+      "work_period": "1807 精神现象学",
+      "read": "既有§§187–196英译",
+      "unread": "全书与德文对版未完成",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "哲学全书小逻辑",
+      "read": "既有§§142–145英译及附释",
+      "unread": "大逻辑不在已读范围",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1820/21 法哲学",
+      "read": "既有182–186、187部分，241–246；本轮251–255德文正文及Anm",
+      "unread": "国家论全貌与殖民段后续未系统读取",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    }
+  ],
+  "primary_additions": [
+    {
+      "title": "法哲学§§251–255",
+      "url": "https://hegel-system.de/de/recht4.htm",
+      "locator": "hegel.net德文，DOM p666–682；编号正文与Anm分开，止于255 Zusatz之前",
+      "reading": "continuous primary text read",
+      "finding": "团体可把特殊职业利益关联共同目的，公共监督并未消失；253 Anm说援助在团体中可减轻偶然性及屈辱。此证据限制245的悲观泛化，不证明现代所有福利制度成败。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "独立性与依赖",
+      "domain_1": "承认：H1§§187–196",
+      "domain_2": "社会分工：H3§§182–186；本轮251–255",
+      "cross_domain_assessment": "跨域有定位但概念层级不同，不直接主奴化市场关系",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "抽象与现实可能",
+      "domain_1": "逻辑可能：H2§§142–145",
+      "domain_2": "社会救助条件：H4§245与§253仅相关，不同一范畴完整复演",
+      "cross_domain_assessment": "跨域候选，不能把类比当证明",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "制度补救内在困境",
+      "domain_1": "市民社会贫困：H4§§241–246",
+      "domain_2": "第二独立制度领域未核；§253是同域反向限制",
+      "cross_domain_assessment": "单域有边界的程序",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    }
+  ],
+  "tensions": [
+    {
+      "pair": "私人职业利益／有制度保障的共同目的",
+      "primary_anchor": "§251与§§252–255；中介任务而非简单两极相加",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    },
+    {
+      "pair": "救助的依赖困境／团体援助减轻屈辱",
+      "primary_anchor": "§245与§253 Anm；制度条件不同，不能记为作者直接自我推翻",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "20样本是编号节首HTML段，未覆盖整个完整节；平均句长只是标点代理。",
+    "需要完整德文段落重组后再做可比较指纹，现数字不可当成熟风格证据。",
+    "制度困境缺第二独立领域；Nuwa行为盲评待执行。"
+  ],
+  "mode_policy": {
+    "default": "中性思想分析",
+    "optional_voice": "仅用户显式选择人物表达时读取表达层；第三人称/框架推演不伪装真实本人",
+    "textgame": "文游不自动加载表达层"
+  },
+  "score": null,
+  "source_classification": "新增依据全部为原作原语电子转录；转载平台本身不等于学术校勘权威。旧证据译文/二手身份保留来源目录标签。"
+}

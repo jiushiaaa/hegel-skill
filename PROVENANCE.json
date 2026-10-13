@@ -1,0 +1,30 @@
+{
+  "id": "hegel-perspective",
+  "author": "jiushiaaa",
+  "method": "https://github.com/alchaincyf/nuwa-skill",
+  "source_snapshot": "frozen-r3",
+  "snapshot_manifest": {
+    "id": "hegel-perspective",
+    "files": {
+      "questions.json": "150d2968c8897ecaa1588f69b3e97c575d09bb6fad5cf078f72e83f16859663e",
+      "skill/EXTRACTION.md": "e37e2230b5f3a16c7e19ffb048b81056ab25475e95a452a5cf19034d975180bc",
+      "skill/references/persona-expression.md": "d99d7827f213ba080b5ce128398d37755e9df14987a88653c6d6128db6558cf5",
+      "skill/references/research/01-writings.md": "9f7b92ed29e55b48aef899557ded58b40709e31e63fadabc2e85a0fa4a6d2c7c",
+      "skill/references/research/02-conversations.md": "5c960522d8c1ef8584ae488923fca21f5bb5be55cfcebfabd11a9fbfc9d9cc22",
+      "skill/references/research/03-expression-dna.md": "83efa8e6acb8c58f2b54f9b0783f559c006c29b901f81d28c04ad77938460ba6",
+      "skill/references/research/04-external-views.md": "935b2fa21fb641158fdfc5d7ead9c5a10fbcd16ef83f155e0f64953f99950f33",
+      "skill/references/research/05-decisions.md": "b9b1c89dfdc43d051c92d7c92a0a9754405d0ae0f673c15f224800fa895a3849",
+      "skill/references/research/06-timeline.md": "2bf1b1cb5687e4f4cd3d429cbff753ed33e70c927fb1b727bd9600b0915029d7",
+      "skill/references/research/10-deep-primary-language.md": "32451b606bc847acf82d9b6ebc35c2d87330153eef2f88df7ff6936930140874",
+      "skill/references/research/12-nuwa-a-evidence.json": "9d82bf399410e59240f4d950ec4c60daac1db45184ba4225d57c4b49ef3a4ab0",
+      "skill/references/research/12-nuwa-a-evidence.md": "b64be863915661ef5e261d74ab151611d5eaa2fba69337826a3ab9e6eac1dbc5",
+      "skill/references/research/13-primary-argument-chains.json": "35ee0f7d36605d14571f7b09f46a878c5fc4479f0c05a9fe17f75bb46af19d1e",
+      "skill/references/research/13-primary-argument-chains.md": "101ac3380826118f8c9efd64f6936008fc3bfbc9d28458d671ba5b69aefc0cfd",
+      "skill/references/research/source-catalog.md": "7bc30218d5795d06752105c55bcd67583fe1e86158575d3c00b7745273af301a",
+      "skill/SKILL.md": "4c64970d7bccdff1bebd262fad1e4d1e5a854e28ec8ce9b4301855b69899b1e6",
+      "skill/UPSTREAM-AUDIT.md": "d1438415d531c152fbc1d3265f17c0ef2819a191742ab7ebae7dd0b39be45de2"
+    },
+    "historical_validation_excluded": true
+  },
+  "public_packaging": "Bilingual readmes and usage, attribution, license, sanitized local paths; no score optimization."
+}

@@ -1,0 +1,84 @@
+{
+  "id": "hegel-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "私人利益通过同业共同目的及制度中介实现，没有简单相加或取消特殊利益。",
+      "source": "法哲学§251–252，德文L1201–1204直接核，https://hegel-system.de/de/recht4.htm"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "团体援助消除偶然及不当屈辱与成员承认相连，正确区分§245不同制度条件。",
+      "source": "同作§253/Anm L1209–1222直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "成员能力、正直、数量与公共监督条件保留，自治并非无界。",
+      "source": "同作§252直接核"
+    }
+  ],
+  "voice": {
+    "score": 8,
+    "blind_guess": "黑格尔",
+    "reason": "低置信命中主要凭对象实际关系；没有展示概念自身矛盾推动转化，形式辨识不足。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "三部作品、英德版本及正文/附注区分可追溯；历史范围记录过时处依新增，未完成德文整体系校勘。",
+    "primary_ratio_basis": "精神现象学、哲学全书、法哲学三部一手；H4为法哲学新增段而非第四部，一手3/3，就目录实读作品而言。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "3入口可操作，私人社会关系已合理并回第一项；制度困境有独立检验，仍是局部程序，不能据其代表整个辩证法。",
+    "models": [
+      "关系中检验自足",
+      "可能与条件",
+      "制度补救内在困境"
+    ],
+    "boundaries": [
+      "不机械正反合",
+      "不把依赖直接称奴隶",
+      "不以概念代替事实",
+      "不从§245推出所有援助必败"
+    ],
+    "tensions": [
+      "私人利益／共同制度目的",
+      "救助困境／团体援助尊严"
+    ]
+  },
+  "total": 84,
+  "grade": "B",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://hegel-system.de/de/recht4.htm",
+      "status": "direct_partial",
+      "read": "德文转录§§249–254及§245邻接，未全章／印本校勘"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P14",
+    "blind_preference": "tie",
+    "mapped_result": "tie",
+    "post_unblinding_issues": [
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "ac38bf9839b7a27b129af72e58a930ac60ca604411fce611b655e269a403ed02",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}
